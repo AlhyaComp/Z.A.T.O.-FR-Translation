@@ -2,11 +2,11 @@
 
 Projet de traduction française de **Z.A.T.O. // I Love the World and Everything In It**.
 
-How to use it?
+### How to use it?
 Download the two files, go to the game's local files and place them in the "game" folder.
 Now you're good to go, enjoy!
 
-Comment ça marche ?
+### Comment ça marche ?
 Téléchargez les deux fichiers, allez les dans les fichiers locaux du jeux et placez les dans le dossier "game".
 Et c'est parti vous pouvez jouer !
 
