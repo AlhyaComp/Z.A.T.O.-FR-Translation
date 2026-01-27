@@ -4,12 +4,15 @@ Projet de traduction française de **Z.A.T.O. // I Love the World and Everything
 
 ## Exemples
 
+Avant :
 ![Ecran Titre original](image/titleScreen.png)
-![Ecran Titre traduit](image/titleScreenFR.png)
 ![Dialogue original](image/inGame.png)
-![Dialogue traduit](image/inGameFR.png)
 
-## Avancement
+Après :
+![Dialogue traduit](image/inGameFR.png)
+![Ecran Titre traduit](image/titleScreenFR.png)
+
+## Progression
 - [x] Ecran titre
 - [x] Menus
 - [x] Prologue
