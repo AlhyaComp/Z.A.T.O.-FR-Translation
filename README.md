@@ -9,8 +9,8 @@ Avant :
 ![Dialogue original](image/inGame.png)
 
 Après :
-![Dialogue traduit](image/inGameFR.png)
 ![Ecran Titre traduit](image/titleScreenFR.png)
+![Dialogue traduit](image/inGameFR.png)
 
 ## Progression
 - [x] Ecran titre
