@@ -10,17 +10,19 @@ Comment ça marche ?
 Téléchargez les deux fichiers, allez les dans les fichiers locaux du jeux et placez les dans le dossier "game".
 Et c'est parti vous pouvez jouer !
 
+![Directory](image/directory.png)
+
 ## Exemples
 
 Avant / Before :
 
-![Ecran Titre original](image/titleScreen.png)
-![Dialogue original](image/inGame.png)
+![Original Title Screen](image/titleScreen.png)
+![Original Dialogue](image/inGame.png)
 
 Après / After :
 
-![Ecran Titre traduit](image/titleScreenFR.png)
-![Dialogue traduit](image/inGameFR.png)
+![Translated Title Screen](image/titleScreenFR.png)
+![Translated Dialogue](image/inGameFR.png)
 
 ## Progression
 - [x] Ecran titre
