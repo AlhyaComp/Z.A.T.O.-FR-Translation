@@ -1528,7 +1528,7 @@ translate french ep1_c1476052:
 translate french ep1_ce26dc94:
 
     # extend " It’s half a ruble, Shubina, who gives a shit?"
-    extend " C'est la moitié d'un ruble, Shubina, qui en a quelque chose à faire ?"
+    extend " C'est la moitié d'un rouble, Shubina, qui en a quelque chose à faire ?"
 
 # game/ep1.rpy:443
 translate french ep1_966ff1d4:
