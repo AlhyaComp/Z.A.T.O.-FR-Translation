@@ -1846,25 +1846,25 @@ translate french ep1_f545d1e8:
 translate french ep1_e306db04:
 
     # a troubled "I..."
-    a troubled ""
+    a troubled "Je..."
 
 # game/ep1.rpy:509
 translate french ep1_8b92e3a7:
 
     # extend " I don’t know..."
-    extend ""
+    extend " Je sais pas..."
 
 # game/ep1.rpy:510
 translate french ep1_063e096f:
 
     # c "Come on, it’s gonna be fun!"
-    c ""
+    c "Aller, ça sera drôle !"
 
 # game/ep1.rpy:511
 translate french ep1_4f1a6fa3:
 
     # cb "Yeah, you're gonna love it!"
-    cb ""
+    cb "Ouais, tu vas adorer !"
 
 # game/ep1.rpy:512
 translate french ep1_8e2871d3:
