@@ -24,8 +24,8 @@ Après / After :
 ![Translated Title Screen](image/titleScreenFR.png)
 ![Translated Dialogue](image/inGameFR.png)
 
-## Progression
-- [x] Ecran titre
+## Progression / Progress
+- [x] Ecran titre / Title Screen
 - [x] Menus
 - [x] Prologue
 - [ ] Episode 1
