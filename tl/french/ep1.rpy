@@ -4710,31 +4710,31 @@ translate french ep1_a7dd2bb4:
 translate french ep1_ed7e4f82:
 
     # "Ira and I weren’t cut from the same cloth."
-    "Ira et moi on"
+    "Ira et moi on est pas coupé du même bois."
 
 # game/ep1.rpy:1271
 translate french ep1_b130e806:
 
     # extend " When I spend my days looking for excuses to stave off the minute I have to come home, Ira is cooking, packing lunch, and carrying it to the edge of town."
-    extend ""
+    extend " Quand je passe mes journées à chercher des excuses pour repousser le moment où je dois rentrer chez moi, Ira cuisine, prépare le repas et l'emmène à l'autre bout de la ville."
 
 # game/ep1.rpy:1272
 translate french ep1_f4c7e99e:
 
     # "That goes against everything I've heard..."
-    ""
+    "Ça va à l'encontre de tout ce que j'ai pu entendre..."
 
 # game/ep1.rpy:1273
 translate french ep1_2075ee8c:
 
     # extend " But it makes so much sense."
-    extend ""
+    extend " Mais ça fait tellement sens."
 
 # game/ep1.rpy:1274
 translate french ep1_b6dd87a4:
 
     # "That’s why I never see her on the street."
-    ""
+    "C'est pour ça que je ne la vois jamais dans la rue."
 
 # game/ep1.rpy:1275
 translate french ep1_31f01682:
