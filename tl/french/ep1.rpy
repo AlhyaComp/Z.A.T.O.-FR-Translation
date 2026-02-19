@@ -4782,55 +4782,55 @@ translate french ep1_624b434d:
 translate french ep1_f3c284b8:
 
     # "It doesn’t take long to get to the institute, even if you walk from the other side of town."
-    "Ç"
+    "Ça ne prend pas beaucoup de temps pour se rendre à l'institut, même s'il fallait marcher depuis l'autre bout de la ville."
 
 # game/ep1.rpy:1290
 translate french ep1_da6d2a27:
 
     # extend " Hm, yes, that’s true."
-    extend ""
+    extend " Hmm, oui, c'est vrai."
 
 # game/ep1.rpy:1291
 translate french ep1_edb30167:
 
     # extend " She’d still have plenty of spare time."
-    extend ""
+    extend " Il lui resterait toujours beaucoup de temps libre."
 
 # game/ep1.rpy:1292
 translate french ep1_c4f9a295:
 
     # "This doesn’t work."
-    ""
+    "Ça ne colle pas."
 
 # game/ep1.rpy:1293
 translate french ep1_94e5aaba:
 
     # extend " This explanation doesn’t work."
-    extend ""
+    extend " Cette explication ne fonctionne pas."
 
 # game/ep1.rpy:1300
 translate french ep1_63040e72:
 
     # "Ira walks back into the building."
-    ""
+    "Ira retourne à l'intérieur du bâtiment."
 
 # game/ep1.rpy:1312
 translate french ep1_c755fd62:
 
     # "Do I really need an explanation?"
-    ""
+    "Est-ce que j'ai vraiment besoin d'une explication ?"
 
 # game/ep1.rpy:1313
 translate french ep1_762eb914:
 
     # "It’s none of my business."
-    ""
+    "C'est pas mes affaires."
 
 # game/ep1.rpy:1314
 translate french ep1_416b2fad:
 
     # extend " I’m not so delusional as to believe we’re close enough to share something like that."
-    extend ""
+    extend " Je ne suis pas assez"
 
 # game/ep1.rpy:1315
 translate french ep1_716780d9:
