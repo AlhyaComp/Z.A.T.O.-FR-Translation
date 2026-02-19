@@ -4596,7 +4596,7 @@ translate french ep1_7f0a2e59:
 translate french ep1_06d4a353:
 
     # extend " You bring her lunch?"
-    extend " Tu lui as ramenée son déjeuner ?"
+    extend " Tu lui ramène son repas ?"
 
 # game/ep1.rpy:1245
 translate french ep1_580a03d2:
@@ -4740,49 +4740,49 @@ translate french ep1_b6dd87a4:
 translate french ep1_31f01682:
 
     # extend " That’s why she doesn’t have the time to sit at the cafe."
-    extend ""
+    extend " C'est pour ça qu'elle n'a pas le temps de s'arrêter au café."
 
 # game/ep1.rpy:1276
 translate french ep1_8667a9a0:
 
     # extend " That’s why she doesn’t idle away at the community centre."
-    extend ""
+    extend " C'est pour ça qu'elle ne perd pas son temps au centre communautaire."
 
 # game/ep1.rpy:1277
 translate french ep1_e28f7890:
 
     # extend " That’s why she’s such a caring person."
-    extend ""
+    extend " C'est pour ça qu'elle est une personne attentionnée."
 
 # game/ep1.rpy:1278
 translate french ep1_90467cd0:
 
     # "That’s why I’m such a piece of trash."
-    ""
+    "C'est pour ça que je suis un déchet."
 
 # game/ep1.rpy:1286
 translate french ep1_70a4b626:
 
     # "{cps=0}No.{/cps}"
-    ""
+    "{cps=0}Non.{/cps}"
 
 # game/ep1.rpy:1287
 translate french ep1_49c27ffc:
 
     # extend " She only said her mom forgets her lunches sometimes."
-    extend ""
+    extend " Elle a seulement dit que sa mère oublie ses repas quelque fois."
 
 # game/ep1.rpy:1288
 translate french ep1_624b434d:
 
     # extend " Lunches are prepared in advance."
-    extend ""
+    extend " Les repas sont préparés en avance."
 
 # game/ep1.rpy:1289
 translate french ep1_f3c284b8:
 
     # "It doesn’t take long to get to the institute, even if you walk from the other side of town."
-    ""
+    "Ç"
 
 # game/ep1.rpy:1290
 translate french ep1_da6d2a27:
