@@ -4830,49 +4830,49 @@ translate french ep1_762eb914:
 translate french ep1_416b2fad:
 
     # extend " I’m not so delusional as to believe we’re close enough to share something like that."
-    extend " Je ne suis pas assez"
+    extend " Je ne suis pas assez délusionnel à croire qu'on est assez proche pour partager quelque chose comme ça."
 
 # game/ep1.rpy:1315
 translate french ep1_716780d9:
 
     # extend " That’d be nice, but it’s not how things work."
-    extend ""
+    extend " Ça ce serait bien, mais c'est pas comme ça que ça marche."
 
 # game/ep1.rpy:1316
 translate french ep1_a1c3885c:
 
     # "Things work like this:{w=0.3} when Ira’s in the room, Garin doesn’t talk to me as much."
-    ""
+    "Ça marche comme ça : {w=0.3} quand Ira est dans la salle, Garin ne me parle pas tant que ça."
 
 # game/ep1.rpy:1317
 translate french ep1_0ae31add:
 
     # extend " When she isn’t, I wish she would be."
-    extend ""
+    extend " Quand elle ne l'est pas, j'aurais souhaité qu'elle le soit."
 
 # game/ep1.rpy:1324
 translate french ep1_7b6d0ece:
 
     # g "Your friend’s not here today."
-    g ""
+    g "Ton amie est pas là aujourd'hui."
 
 # game/ep1.rpy:1325
 translate french ep1_bc315f7a:
 
     # a sus "Who?"
-    a sus ""
+    a sus "Qui ?"
 
 # game/ep1.rpy:1326
 translate french ep1_84b7f4e4:
 
     # g "Who do you think?"
-    g ""
+    g "À qui tu penses ?"
 
 # game/ep1.rpy:1327
 translate french ep1_9e1c2462:
 
     # a neutral "Oh."
-    a neutral ""
+    a neutral "Oh."
 
 # game/ep1.rpy:1328
 translate french ep1_dc67f812:
