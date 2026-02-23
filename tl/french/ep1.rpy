@@ -4578,7 +4578,7 @@ translate french ep1_eeecb116:
 translate french ep1_ed17f817:
 
     # extend " She forgets her lunch sometimes."
-    extend " Elle oublie son repas quelque fois."
+    extend " Elle oublie son repas parfois."
 
 # game/ep1.rpy:1240
 translate french ep1_d849f5c7:
@@ -5154,7 +5154,7 @@ translate french ep1_19527222:
 translate french ep1_184281da:
 
     # "Everyone talks about it."
-    "Tout le monde en parle !!!!!"
+    "Tout le monde en parle."
 
 # game/ep1.rpy:1386
 translate french ep1_e417bb65:
@@ -5166,85 +5166,85 @@ translate french ep1_e417bb65:
 translate french ep1_015cca8d:
 
     # extend " It’s been like that for a long time."
-    extend ""
+    extend " Ça fait longtemps que c'est comme ça."
 
 # game/ep1.rpy:1388
 translate french ep1_2395ceb2:
 
     # extend " But still, I..."
-    extend ""
+    extend "Mais quand même, je..."
 
 # game/ep1.rpy:1389
 translate french ep1_79d2a02d:
 
     # "{i}“She forgets her lunch sometimes.”{/i}"
-    ""
+    "{i}"Elle oublie son repas parfois."{/i}"
 
 # game/ep1.rpy:1392
 translate french ep1_50098085:
 
     # "{cps=100}{size=+10}{b}Aaaaaaaaaaaaaaaaaaaaragh!!{/b}{/size}"
-    ""
+    "{cps=100}{size=+10}{b}Aaaaaaaaaaaaaaaaaaaaaaaaah !!{/b}{/size}"
 
 # game/ep1.rpy:1393
 translate french ep1_94123b24:
 
     # extend " \nThat can’t happen!"
-    extend ""
+    extend "\nÇa ne peut pas arriver !"
 
 # game/ep1.rpy:1394
 translate french ep1_b5dfb289_1:
 
     # extend " No!"
-    extend ""
+    extend "Non !"
 
 # game/ep1.rpy:1395
 translate french ep1_c0202c0c:
 
     # extend " It can’t, it can’t, it can’t!"
-    extend ""
+    extend "Ça ne peut pas, Ça ne peut pas, Ça ne peut pas !"
 
 # game/ep1.rpy:1396
 translate french ep1_193d6c2b:
 
     # extend " It’s not fair, it’s not fair, it’s not fair!!"
-    extend ""
+    extend "C'est pas juste, C'est pas juste, C'est pas juste !!"
 
 # game/ep1.rpy:1397
 translate french ep1_89068ee7:
 
     # extend " They can’t send her away...!"
-    extend ""
+    extend " Ils ne peuvent pas la faire partir...!"
 
 # game/ep1.rpy:1398
 translate french ep1_78773923:
 
     # "{cps=100}She can’t go. {w=0.2}She’s so nice. {w=0.2}She cares. {w=0.2}She does. {w=0.2}Maybe not for me, but for her family. {w=0.2}Why would they send her away? {w=0.2}That’s just too cruel. {w=0.2}They can’t do that. {w=0.2}If they do, then it will all be over."
-    ""
+    "{cps=100}Elle peut pas partir. {w=0.2}Elle est si gentille. {w=0.2}Elle est attentionnée. {w=0.2}Elle l'est vraiment. {w=0.2}Peut-être pas avec moi, mais avec sa famille. {w=0.2}Pourquoi ils l'a font partir ? {w=0.2}C'est trop cruelle. {w=0.2}Ils peuvent pas faire ça. {w=0.2}S'ils le font, alors ce sera la fin."
 
 # game/ep1.rpy:1399
 translate french ep1_f004f38f:
 
     # "{cps=100}If they do, then I won’t..."
-    ""
+    "{cps=100}S'ils le font, alors je ne..."
 
 # game/ep1.rpy:1400
 translate french ep1_a20cefa7_3:
 
     # "..."
-    ""
+    "..."
 
 # game/ep1.rpy:1406
 translate french ep1_b87604bd:
 
     # "We just started..."
-    ""
+    "On a juste commencé..."
 
 # game/ep1.rpy:1407
 translate french ep1_ae30c77f:
 
     # extend " I don’t know what."
-    extend ""
+    extend " Je ne sais pas quoi."
 
 # game/ep1.rpy:1408
 translate french ep1_2dceb200:
