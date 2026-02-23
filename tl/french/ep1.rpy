@@ -5178,7 +5178,7 @@ translate french ep1_2395ceb2:
 translate french ep1_79d2a02d:
 
     # "{i}“She forgets her lunch sometimes.”{/i}"
-    "{i}"Elle oublie son repas parfois."{/i}"
+    "{i}Elle oublie son repas parfois.{/i}"
 
 # game/ep1.rpy:1392
 translate french ep1_50098085:
