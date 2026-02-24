@@ -5316,7 +5316,7 @@ translate french ep1_c7eab988:
 translate french ep1_63988f83:
 
     # extend " So far away that I can’t picture it."
-    extend "Si loin que je ne peux l'imaginer."
+    extend " Si loin que je ne peux l'imaginer."
 
 # game/ep1.rpy:1425
 translate french ep1_6d6b4207:
