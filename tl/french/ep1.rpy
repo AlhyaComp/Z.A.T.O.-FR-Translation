@@ -5250,121 +5250,121 @@ translate french ep1_ae30c77f:
 translate french ep1_2dceb200:
 
     # extend " I can’t even call it talking."
-    extend ""
+    extend " On peut pas appeler ça discuter."
 
 # game/ep1.rpy:1409
 translate french ep1_0199f60f:
 
     # extend " I don’t know what it is, but that doesn’t matter."
-    extend ""
+    extend " Je ne sais pas ce que c'est, mais peu importe."
 
 # game/ep1.rpy:1410
 translate french ep1_4348731d:
 
     # "Even if she just tolerates me, even if she doesn’t want anything to do with me, I don’t care."
-    ""
+    "Même si elle ne faisait que me supporter, même si elle ne veut rien avoir à faire avec moi, je m'en fiche."
 
 # game/ep1.rpy:1411
 translate french ep1_98fcac43:
 
     # extend " This can’t happen."
-    extend ""
+    extend " Ça ne peut pas arriver."
 
 # game/ep1.rpy:1412
 translate french ep1_aa533423:
 
     # extend " This physically cannot happen."
-    extend ""
+    extend " Ça ne peut littéralement pas arriver."
 
 # game/ep1.rpy:1418
 translate french ep1_c9e0066f:
 
     # "I raise my head and look out through the window."
-    ""
+    "Je relève ma tête et regarde par la fenêtre."
 
 # game/ep1.rpy:1419
 translate french ep1_bc57e565:
 
     # extend " The snow is falling lightly on the yard."
-    extend ""
+    extend " La neige tombe légèrement dans la cours."
 
 # game/ep1.rpy:1420
 translate french ep1_6242da88:
 
     # extend " The dark pine branches sway under its weight."
-    extend ""
+    extend " Les branches sombres du pin se balancent sous son poids."
 
 # game/ep1.rpy:1421
 translate french ep1_ecfd2240:
 
     # extend " The long gray clouds glide placidly across the tundra."
-    extend ""
+    extend " Les longs nuages gris glissent paisiblement au-dessus de la toundra."
 
 # game/ep1.rpy:1422
 translate french ep1_b0d63d24:
 
     # "Far past the fences."
-    ""
+    "Bien au-delà des clôtures."
 
 # game/ep1.rpy:1423
 translate french ep1_c7eab988:
 
     # extend " Past the mountain ridge."
-    extend ""
+    extend " Au-delà de la crête des montagnes "
 
 # game/ep1.rpy:1424
 translate french ep1_63988f83:
 
     # extend " So far away that I can’t picture it."
-    extend ""
+    extend "Si loin que je ne peux l'imaginer."
 
 # game/ep1.rpy:1425
 translate french ep1_6d6b4207:
 
     # extend " So far away that my mind circles twice around the Earth and comes back to the spot I’m sitting in."
-    extend ""
+    extend " Si loin que mon esprit fait deux fois le tour de la Terre et revient à l'endroit où je suis assise."
 
 # game/ep1.rpy:1427
 translate french ep1_285302ff:
 
     # "This world is way too gentle."
-    ""
+    "ce monde est bien trop doux."
 
 # game/ep1.rpy:1428
 translate french ep1_0333cf1c:
 
     # extend " It’s been too kind to an ungrateful brat like me."
-    extend ""
+    extend " Il a été bien trop bon pour une gamine ingrate tel que moi"
 
 # game/ep1.rpy:1429
 translate french ep1_66ff6904:
 
     # "So if I’ve earned this world’s good graces, why can’t a person so much more deserving do the same?"
-    ""
+    "Alors si j'ai mérité les bonnes grâces de ce monde, pourquoi une personne qui mérite bien plus ne pourrait-elle pas en faire autant ?"
 
 # game/ep1.rpy:1430
 translate french ep1_3dfd24f4:
 
     # extend " What does a person like that have to do?"
-    extend ""
+    extend " Que doit faire une personne comme ça ?"
 
 # game/ep1.rpy:1431
 translate french ep1_41b60611:
 
     # "And is there anything that I can do?"
-    ""
+    "Et y a t-il quelque chose que je puisse faire ?"
 
 # game/ep1.rpy:1437
 translate french ep1_a20cefa7_4:
 
     # "..."
-    ""
+    "..."
 
 # game/ep1.rpy:1438
 translate french ep1_37e2de7a:
 
     # "A bird flies past the window."
-    ""
+    "Un "
 
 # game/ep1.rpy:1443
 translate french ep1_ef0f4075:
