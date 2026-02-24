@@ -5364,217 +5364,217 @@ translate french ep1_a20cefa7_4:
 translate french ep1_37e2de7a:
 
     # "A bird flies past the window."
-    "Un "
+    "Un oiseau passe à la fenêtre."
 
 # game/ep1.rpy:1443
 translate french ep1_ef0f4075:
 
     # a pout "Ira..."
-    a pout ""
+    a pout "Ira..."
 
 # game/ep1.rpy:1447
 translate french ep1_79ee1aa6_1:
 
     # i "What?"
-    i ""
+    i "Quoi ?"
 
 # game/ep1.rpy:1448
 translate french ep1_c955bcb2:
 
     # "I’m really using up all of my luck these days."
-    ""
+    "Je suis vraiment en train d'épuiser toute ma chance ces jours-ci."
 
 # game/ep1.rpy:1449
 translate french ep1_cbbaa89c:
 
     # "Ira sits smoking in the girl's bathroom, just like she did when I first talked to her."
-    ""
+    "Ira est assise dans les toilettes des filles, en train de fumer, comme elle le faisait quand je lui ai parlé pour la première fois."
 
 # game/ep1.rpy:1450
 translate french ep1_973eb3e7:
 
     # extend " Some snowflakes blow into the room and stick in her hair."
-    extend ""
+    extend " Quelques flocons de neige tombent dans la pièce et se posent dans ses cheveux."
 
 # game/ep1.rpy:1451
 translate french ep1_ec18a212_1:
 
     # a "Um..."
-    a ""
+    a "Um..."
 
 # game/ep1.rpy:1452
 translate french ep1_4ccd52aa:
 
     # extend " It’s gotten colder."
-    extend ""
+    extend " Il fait plus froid."
 
 # game/ep1.rpy:1453
 translate french ep1_432e1e32:
 
     # extend " Maybe you shouldn’t \nsit so close..."
-    extend ""
+    extend " Peut-être que tu ne devrais pas \nt'asseoir si près..."
 
 # game/ep1.rpy:1456
 translate french ep1_6f3d4875_17:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1457
 translate french ep1_8e8ac8f7:
 
     # a um "Uh..."
-    a um ""
+    a um "Euh..."
 
 # game/ep1.rpy:1458
 translate french ep1_0593420f_1:
 
     # extend " I..."
-    extend ""
+    extend "Je..."
 
 # game/ep1.rpy:1459
 translate french ep1_16d62d97:
 
     # extend troubled " I know you don’t like going to \nclasses much, but..."
-    extend troubled ""
+    extend troubled " Je sais que tu n'aimes pas aller en cours, mais..."
 
 # game/ep1.rpy:1460
 translate french ep1_23022809:
 
     # extend " you can really get kicked \nout like that."
-    extend ""
+    extend " tu peux vraiment te faire virer comme ça."
 
 # game/ep1.rpy:1461
 translate french ep1_6f3d4875_18:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1462
 translate french ep1_15f90e95:
 
     # extend "Is that why you came here?"
-    extend ""
+    extend "T'es venue pour ça ?"
 
 # game/ep1.rpy:1463
 translate french ep1_333f772d:
 
     # extend " To tell me that?"
-    extend ""
+    extend "Pour me dire ça ?"
 
 # game/ep1.rpy:1464
 translate french ep1_9be571f6_3:
 
     # a um "..."
-    a um ""
+    a um "..."
 
 # game/ep1.rpy:1469
 translate french ep1_e37b2dd0:
 
     # i "I know that."
-    i ""
+    i "Je le sais."
 
 # game/ep1.rpy:1470
 translate french ep1_0e2307d1:
 
     # extend " I’m not stupid."
-    extend ""
+    extend "Je suis pas débile."
 
 # game/ep1.rpy:1471
 translate french ep1_a9b7b729:
 
     # a concern "I don’t think you are."
-    a concern ""
+    a concern "Je pense pas que tu l'es."
 
 # game/ep1.rpy:1472
 translate french ep1_73b96298:
 
     # extend troubled " Do you just..."
-    extend troubled ""
+    extend troubled " Est ce que..."
 
 # game/ep1.rpy:1473
 translate french ep1_cf3c02dc:
 
     # extend " really \nnot care?"
-    extend ""
+    extend "tu t'en fiches vraiment ?"
 
 # game/ep1.rpy:1474
 translate french ep1_6f3d4875_19:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1475
 translate french ep1_9acffcb6:
 
     # a um "Everyone says that you’ll get sent away."
-    a um ""
+    a um "Tout le monde dit qu'ils vont t'envoyer ailleurs."
 
 # game/ep1.rpy:1476
 translate french ep1_5c6a618c:
 
     # extend " That \nyour parents will send you to live with a \nrelative."
-    extend ""
+    extend " Que tes parents vont t'envoyer chez de la famille."
 
 # game/ep1.rpy:1477
 translate french ep1_44e169f1:
 
     # extend " Is that true?"
-    extend ""
+    extend " C'est vrai ?"
 
 # game/ep1.rpy:1478
 translate french ep1_9279d323:
 
     # i "Probably, yeah."
-    i ""
+    i "Probablement, ouais."
 
 # game/ep1.rpy:1479
 translate french ep1_070a173b:
 
     # a sadaway "Gh..."
-    a sadaway ""
+    a sadaway "Gh..."
 
 # game/ep1.rpy:1481
 translate french ep1_f2472234:
 
     # "Of course it’s true."
-    ""
+    "Bien sûr que c'est vrai"
 
 # game/ep1.rpy:1482
 translate french ep1_5bb15f1c:
 
     # extend " I knew it was true when I asked the question."
-    extend ""
+    extend " Je savais que c'était vrai quand j'ai posé la question."
 
 # game/ep1.rpy:1483
 translate french ep1_94433166:
 
     # a ramble "Maybe..."
-    a ramble ""
+    a ramble "Peut-être..."
 
 # game/ep1.rpy:1484
 translate french ep1_ad81bb34:
 
     # extend " Maybe if you just cleaned up..."
-    extend ""
+    extend "Peut-être si tu faisais profil bas..."
 
 # game/ep1.rpy:1485
 translate french ep1_dba5a0bc:
 
     # extend um " If you \nstop skipping now, then maybe..."
-    extend um ""
+    extend um " Si t'arretais de sécher les cours, alors peut-être..."
 
 # game/ep1.rpy:1486
 translate french ep1_e1b585d7:
 
     # extend "\nMaybe you won’t have to go."
-    extend ""
+    extend "Peut-être que t'aurais pas à partir."
 
 # game/ep1.rpy:1487
 translate french ep1_ad838bab:
 
     # a awkward "A-and if you’re having a hard time with studies, \nI can help."
-    a awkward ""
+    a awkward "E-et si tu as des difficultés dans tes études, je peux t'aider."
 
 # game/ep1.rpy:1488
 translate french ep1_90dd477f:
