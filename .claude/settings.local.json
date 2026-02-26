@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:steamdb.info)",
+      "Bash(bash:*)",
+      "Bash(reg query:*)",
+      "Bash(cmd.exe:*)"
+    ]
+  }
+}
