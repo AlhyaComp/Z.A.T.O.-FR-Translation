@@ -2,13 +2,23 @@
 
 Projet de traduction française de **Z.A.T.O. // I Love the World and Everything In It**.
 
-### How to use it?
-Download the two files, go to the game's local files and place them in the "game" folder.
-Now you're good to go, enjoy!
+Dépôt : [github.com/In-Veritas/Z.A.T.O.-FR-Translation](https://github.com/In-Veritas/Z.A.T.O.-FR-Translation)
 
-### Comment ça marche ?
-Téléchargez les deux fichiers, allez les dans les fichiers locaux du jeux et placez les dans le dossier "game".
-Et c'est parti vous pouvez jouer !
+## Installation
+
+### Automatique (recommandé)
+
+1. [Téléchargez le projet](https://github.com/In-Veritas/Z.A.T.O.-FR-Translation/archive/refs/heads/main.zip) et extrayez l'archive.
+2. Lancez le script d'installation :
+   - **Windows** : double-cliquez sur `install.bat`
+   - **Mac / Linux** : ouvrez un terminal dans le dossier et lancez `./install.sh`
+3. Le script détecte automatiquement le dossier du jeu via Steam. Si la détection échoue, il vous demandera de saisir le chemin manuellement.
+
+### Manuelle
+
+Copiez les fichiers suivants dans le dossier `game/` du jeu :
+- `force_lang_fr.rpy`
+- `tl/french/` (tout le dossier)
 
 ![Directory](image/directory.png)
 
