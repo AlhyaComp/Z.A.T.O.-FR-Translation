@@ -5862,37 +5862,37 @@ translate french ep1_bc82a1bb:
 translate french ep1_0a3a3e6f:
 
     # extend " It’s probably somewhere really \nobvious, but..."
-    extend ""
+    extend " C'est probablement à un endroit évident mais..."
 
 # game/ep1.rpy:1548
 translate french ep1_7e865cff:
 
     # a awkward "I-I’m just no good at that kind of stuff."
-    a awkward ""
+    a awkward "J-Je suis juste vraiment pas bonne à ce genre de choses."
 
 # game/ep1.rpy:1549
 translate french ep1_a1d768c5:
 
     # extend "\nWhen I hid Igor's pencil case, they found it \nright away..."
-    extend ""
+    extend "Quand j'ai caché la trousse d'Igor, ils l'ont trouvé directement..."
 
 # game/ep1.rpy:1557
 translate french ep1_9915b800:
 
     # "She throws the cigarette bud out the window and hops off the windowsill."
-    ""
+    "Elle jette le mégot de cigarette par la fênetre et descend du rebord de la fênetre."
 
 # game/ep1.rpy:1559
 translate french ep1_237f44bc:
 
     # "Without saying a word, Ira storms past me – but I grab onto the edge of her dress just as she’s about to leave."
-    ""
+    "Sans dire un mot, Ira me dépasse - mais j'attrapre un bout de sa robe juste avant qu'elle parte."
 
 # game/ep1.rpy:1563
 translate french ep1_e6bee468:
 
     # a ehh "Wait!"
-    a ehh ""
+    a ehh "Attends !"
 
 # game/ep1.rpy:1564
 translate french ep1_3573e2da:
