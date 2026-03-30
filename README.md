@@ -2,8 +2,6 @@
 
 Projet de traduction française de **Z.A.T.O. // I Love the World and Everything In It**.
 
-Dépôt : [github.com/In-Veritas/Z.A.T.O.-FR-Translation](https://github.com/In-Veritas/Z.A.T.O.-FR-Translation)
-
 ## Installation
 
 ### Automatique (recommandé)
