@@ -1,6 +1,7 @@
 # Z.A.T.O. – Traduction française
 
 Projet de traduction française de **Z.A.T.O. // I Love the World and Everything In It**.
+Dépôt : github.com/AlhyaComp/Z.A.T.O.-FR-Translation
 
 ## Installation
 
