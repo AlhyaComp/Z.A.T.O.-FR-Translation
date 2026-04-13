@@ -5886,7 +5886,7 @@ translate french ep1_9915b800:
 translate french ep1_237f44bc:
 
     # "Without saying a word, Ira storms past me – but I grab onto the edge of her dress just as she’s about to leave."
-    "Sans dire un mot, Ira me dépasse - mais j'attrapre un bout de sa robe juste avant qu'elle parte."
+    "Sans dire un mot, Ira me dépasse - mais j'attrape un bout de sa robe juste avant qu'elle parte."
 
 # game/ep1.rpy:1563
 translate french ep1_e6bee468:
@@ -5898,1195 +5898,1195 @@ translate french ep1_e6bee468:
 translate french ep1_3573e2da:
 
     # extend concern " I said, it’s fine!"
-    extend concern ""
+    extend concern " J'ai dit que tout aller bien !"
 
 # game/ep1.rpy:1565
 translate french ep1_2c4bdf59:
 
     # extend " We were playing a game."
-    extend ""
+    extend " On jouait à un jeu."
 
 # game/ep1.rpy:1566
 translate french ep1_de7e3785:
 
     # extend "\nReally."
-    extend ""
+    extend "\nVraiment."
 
 # game/ep1.rpy:1569
 translate french ep1_6f3d4875_20:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1570
 translate french ep1_44806ecd:
 
     # a troubled "Please."
-    a troubled ""
+    a troubled "S'il-te plait."
 
 # game/ep1.rpy:1571
 translate french ep1_e48318bc:
 
     # extend um " Don’t get into more trouble because \nof me."
-    extend um ""
+    extend um " Ne te crée pas plus de soucie à cause de moi."
 
 # game/ep1.rpy:1575
 translate french ep1_c223962a:
 
     # i "I wasn’t going to."
-    i ""
+    i "C'était pas prévu."
 
 # game/ep1.rpy:1576
 translate french ep1_a8bde744_1:
 
     # a neutral "Huh?"
-    a neutral ""
+    a neutral "Hein?"
 
 # game/ep1.rpy:1577
 translate french ep1_d7fa3c22:
 
     # i "I have an idea where it is."
-    i ""
+    i "J'ai une idée d'où elle serait."
 
 # game/ep1.rpy:1578
 translate french ep1_0e75adce:
 
     # extend " It was Garin, right?"
-    extend ""
+    extend " C'était Garin, c'est ça ?"
 
 # game/ep1.rpy:1579
 translate french ep1_db541274:
 
     # a troubled "No, Shurikov..."
-    a troubled ""
+    a troubled "Non, Shurikov..."
 
 # game/ep1.rpy:1580
 translate french ep1_900fc3bc:
 
     # i "Same difference."
-    i ""
+    i "Pareil au même."
 
 # game/ep1.rpy:1586
 translate french ep1_7d14cc8d:
 
     # "She walks out to the corridor, I tag behind."
-    ""
+    "Elle sort dans le couloir, je suis derrière."
 
 # game/ep1.rpy:1587
 translate french ep1_9af6bfd6:
 
     # extend " I’m not sure what place Ira has in mind, but it becomes immediately clear when she makes a sharp turn to the right."
-    extend ""
+    extend " Je ne suis pas sûr de quelle endroit Ira a en tête, mais ça devient très clair lorsqu'elle vire soudainement à droite."
 
 # game/ep1.rpy:1588
 translate french ep1_2a5bb581:
 
     # a ehh "Wait, serious-"
-    a ehh ""
+    a ehh "Attends, sérieusement-"
 
 # game/ep1.rpy:1589
 translate french ep1_221e6f81:
 
     # "She swings open the door to the boys’ restroom and loudly marches in."
-    ""
+    "Elle ouvre brusquement la porte des toilettes des garçons et entre bruyamment."
 
 # game/ep1.rpy:1590
 translate french ep1_8c61775e:
 
     # q "Gah!"
-    q ""
+    q "Gah !"
 
 # game/ep1.rpy:1591
 translate french ep1_6cd7ca95:
 
     # "Some poor guy tumbles out, almost colliding with me."
-    ""
+    "Un pauvre garçon chute, rentrant presque en collision avec moi."
 
 # game/ep1.rpy:1592
 translate french ep1_aa5dd74a_1:
 
     # a woah "Ah-"
-    a woah ""
+    a woah "Ah-"
 
 # game/ep1.rpy:1593
 translate french ep1_96655c07:
 
     # extend kya " Sorry!!"
-    extend kya ""
+    extend kya " Désolée !!"
 
 # game/ep1.rpy:1594
 translate french ep1_4ffe1629:
 
     # extend " We’re sorry..."
-    extend ""
+    extend " On est désolée"
 
 # game/ep1.rpy:1595
 translate french ep1_2c6df9c4:
 
     # "He turns and shakes his head at me in disbelief."
-    ""
+    "Il tourne et secoue la tête incrédule."
 
 # game/ep1.rpy:1596
 translate french ep1_088da24f:
 
     # extend " I mean, what’s there to say..."
-    extend ""
+    extend " Et bien, que veux tu que je te dise..."
 
 # game/ep1.rpy:1599
 translate french ep1_a58cf374:
 
     # "I follow Ira to the bathroom."
-    ""
+    "Je suis Ira dans les toilettes."
 
 # game/ep1.rpy:1600
 translate french ep1_6b07745c:
 
     # extend " Ugh, the smell is so much worse in this one."
-    extend ""
+    extend " Ugh, l'odeur est tellement pire dans celle-ci."
 
 # game/ep1.rpy:1601
 translate french ep1_cc0dad88:
 
     # "I look around and see Ira’s hand reaching above one of the stalls."
-    ""
+    " Je regarde autour et voit la main d'Ira s'étendre au dessus d'une des cabines."
 
 # game/ep1.rpy:1602
 translate french ep1_5ac9ef60_1:
 
     # extend " Ah..."
-    extend ""
+    extend " Ah..."
 
 # game/ep1.rpy:1603
 translate french ep1_d089ce3e:
 
     # extend " There it is."
-    extend ""
+    extend " Il est là."
 
 # game/ep1.rpy:1604
 translate french ep1_007dea12:
 
     # extend " My diary."
-    extend ""
+    extend " Mon carnet."
 
 # game/ep1.rpy:1605
 translate french ep1_8f8636d8:
 
     # extend " Right by the tiny window at the top."
-    extend ""
+    extend " Juste à côté de la petite fenêtre au dessus."
 
 # game/ep1.rpy:1606
 translate french ep1_ae55ca3c:
 
     # "Ira steps on the toilet bowl."
-    ""
+    "Ira monte sur la cuvette des toilettes."
 
 # game/ep1.rpy:1607
 translate french ep1_cbfc974f:
 
     # a ehh "P-please, be careful!"
-    a ehh ""
+    a ehh "S-S'il-te plait, fait attention!"
 
 # game/ep1.rpy:1608
 translate french ep1_9461afb1:
 
     # i "I’m fine."
-    i ""
+    i "Je vais bien."
 
 # game/ep1.rpy:1609
 translate french ep1_6e33b060:
 
     # "She grabs onto the flush tank secured way above."
-    ""
+    "Elle s'aggripe sur le réservoire de chasse d'eau bien au-dessus."
 
 # game/ep1.rpy:1610
 translate french ep1_2c997d65:
 
     # extend " Then, using it as an anchor, she reaches for the windowsill."
-    extend ""
+    extend " Alors, l'utilisant comme ancre, elle essaye d'atteindre le rebord de fenêtre."
 
 # game/ep1.rpy:1611
 translate french ep1_bcca8f68:
 
     # i "Catch."
-    i ""
+    i "Attrape."
 
 # game/ep1.rpy:1613
 translate french ep1_a968c004:
 
     # "{i}Pap!{/i}"
-    ""
+    "{i}Pap!{/i}"
 
 # game/ep1.rpy:1614
 translate french ep1_4a906630:
 
     # "I clasp the diary in my hands."
-    ""
+    "Je serre le carnet dans mes mains."
 
 # game/ep1.rpy:1615
 translate french ep1_3d06f703:
 
     # extend " It’s really been here all along..."
-    extend ""
+    extend " Il était vraiment ici depuis tout ce temps..."
 
 # game/ep1.rpy:1616
 translate french ep1_cdc32fca:
 
     # extend " I look up at Ira, who’s now awkwardly trying to get down."
-    extend ""
+    extend " Je lève les yeux vers Ira, qui essaye maladroitement de descendre."
 
 # game/ep1.rpy:1617
 translate french ep1_6b53ffd3:
 
     # a surprised "Wow, I..."
-    a surprised ""
+    a surprised "Wow, je..."
 
 # game/ep1.rpy:1618
 translate french ep1_e371e98d:
 
     # extend " Thank you!!"
-    extend ""
+    extend " Merci !!"
 
 # game/ep1.rpy:1619
 translate french ep1_9b7795d8:
 
     # i "Yeah, yeah..."
-    i ""
+    i "Ouais, ouais..."
 
 # game/ep1.rpy:1620
 translate french ep1_571b2fea:
 
     # extend " Ou-"
-    extend ""
+    extend " Ou-"
 
 # game/ep1.rpy:1621
 translate french ep1_b542bbe8:
 
     # a whoa "Wah-"
-    a whoa ""
+    a whoa "Wah-"
 
 # game/ep1.rpy:1623
 translate french ep1_958a58e6:
 
     # "{b}{size=+20}BAM!!" with vpunch
-    "" with vpunch
+    "{b}{size=+20}BAM!!" with vpunch
 
 # game/ep1.rpy:1624
 translate french ep1_57533c74:
 
     # "Ira almost loses her balance, but jumps just in time."
-    ""
+    "Ira perd presque son équilibre, mais saute juste à temps."
 
 # game/ep1.rpy:1625
 translate french ep1_0b7f60d8:
 
     # extend " The bowl makes a loud clang as she hops off."
-    extend ""
+    extend " La cuvette produit un son retentissant lorsqu'elle saute."
 
 # game/ep1.rpy:1628
 translate french ep1_053cf2ef:
 
     # i "W-woah...!"
-    i ""
+    i "W-woah...!"
 
 # game/ep1.rpy:1629
 translate french ep1_c73dad30:
 
     # a ehh "Are you okay?"
-    a ehh ""
+    a ehh "Tu vas bien ?"
 
 # game/ep1.rpy:1630
 translate french ep1_dde103cc:
 
     # i "Yeah..."
-    i ""
+    i "Ouais..."
 
 # game/ep1.rpy:1631
 translate french ep1_c40470a6_1:
 
     # extend " Uh..."
-    extend ""
+    extend " Huh..."
 
 # game/ep1.rpy:1632
 translate french ep1_58d26669:
 
     # extend " Let’s get out of here."
-    extend ""
+    extend " Sortons d'ici."
 
 # game/ep1.rpy:1633
 translate french ep1_a3fc4828:
 
     # a um "You think it’s broken?"
-    a um ""
+    a um "Tu crois que c'est cassé ?"
 
 # game/ep1.rpy:1636
 translate french ep1_6f3d4875_21:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1637
 translate french ep1_96044cb1:
 
     # extend "{cps=100}Dunno, I didn't see anything."
-    extend ""
+    extend "{cps=100}J'sais pas, j'ai rien vu."
 
 # game/ep1.rpy:1638
 translate french ep1_d5df0d25:
 
     # a ehh "Huh?! But-"
-    a ehh ""
+    a ehh "Hein ?! Mais-"
 
 # game/ep1.rpy:1643
 translate french ep1_cc10b367:
 
     # i "{cps=80}Why would I be in a men's toilet?"
-    i ""
+    i "{cps=80}Pourquoi je serais dans les toilettes des hommes ?"
 
 # game/ep1.rpy:1644
 translate french ep1_697a0e92:
 
     # extend " Gross."
-    extend ""
+    extend " Dégeu."
 
 # game/ep1.rpy:1650
 translate french ep1_a20cefa7_5:
 
     # "..."
-    ""
+    "..."
 
 # game/ep1.rpy:1651
 translate french ep1_e85b9739:
 
     # extend "Ah."
-    extend ""
+    extend "Ah."
 
 # game/ep1.rpy:1652
 translate french ep1_8b4dd40a:
 
     # extend " I see."
-    extend ""
+    extend " Je vois."
 
 # game/ep1.rpy:1661
 translate french ep1_9d47a249:
 
     # a neutral "Thank you again."
-    a neutral ""
+    a neutral "Merci encore."
 
 # game/ep1.rpy:1665
 translate french ep1_73174156_1:
 
     # i "Mhm."
-    i ""
+    i "Mhm."
 
 # game/ep1.rpy:1666
 translate french ep1_b85e63eb:
 
     # a um "I, um..."
-    a um ""
+    a um "Je, um..."
 
 # game/ep1.rpy:1667
 translate french ep1_7af0fc2a:
 
     # extend troubled " How did you know it would be in the \nboys’ room?"
-    extend troubled ""
+    extend troubled " Comment as-tu su qu'il serait dans les toilettes des garçons ?"
 
 # game/ep1.rpy:1670
 translate french ep1_19b06ec5:
 
     # i "You think Shurik would go into the ladies’ room?"
-    i ""
+    i "Tu penses que Shurik serait aller dans celles des dames ?"
 
 # game/ep1.rpy:1671
 translate french ep1_f469f987:
 
     # a uff "...No."
-    a uff ""
+    a uff "...Non."
 
 # game/ep1.rpy:1672
 translate french ep1_d9463845:
 
     # extend um " I actually..."
-    extend um ""
+    extend um " Enfaite..."
 
 # game/ep1.rpy:1673
 translate french ep1_368d4589:
 
     # extend " I suspected they put it \nthere."
-    extend ""
+    extend " J'ai suspecté qu'ils l'aient mis \nlà."
 
 # game/ep1.rpy:1674
 translate french ep1_86ff10b9:
 
     # extend " I just didn’t have the courage to \nenter..."
-    extend ""
+    extend " J'avais juste pas le courage d'entrer..."
 
 # game/ep1.rpy:1677
 translate french ep1_6f3d4875_22:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1678
 translate french ep1_537a6574:
 
     # extend "You can’t keep doing this."
-    extend ""
+    extend "Tu peux pas continuer à faire ça."
 
 # game/ep1.rpy:1679
 translate french ep1_cd549fcd:
 
     # a um "I know..."
-    a um ""
+    a um "Je sais..."
 
 # game/ep1.rpy:1680
 translate french ep1_87428a63:
 
     # extend " I should’ve checked there from the \nstart."
-    extend ""
+    extend " J'aurais du regardé ici dès le début."
 
 # game/ep1.rpy:1681
 translate french ep1_14e5f789:
 
     # extend " Instead of running around the whole \nschool like a-"
-    extend ""
+    extend " Plutôt que de courir à travers tout l'école comme-"
 
 # game/ep1.rpy:1685
 translate french ep1_f63bab9e:
 
     # i "No."
-    i ""
+    i "Non."
 
 # game/ep1.rpy:1686
 translate french ep1_6ab6933e:
 
     # extend " You can’t keep going along with it."
-    extend ""
+    extend " Tu peux pas continuer comme ça."
 
 # game/ep1.rpy:1687
 translate french ep1_159493d0_3:
 
     # a troubled "..."
-    a troubled ""
+    a troubled "..."
 
 # game/ep1.rpy:1688
 translate french ep1_565e9d0e:
 
     # extend "It was just a game."
-    extend ""
+    extend "C'était juste un jeu."
 
 # game/ep1.rpy:1689
 translate french ep1_dba5178a:
 
     # i "It wasn’t."
-    i ""
+    i "Ç'en était pas un."
 
 # game/ep1.rpy:1690
 translate french ep1_456e9239:
 
     # a concern "No, really."
-    a concern ""
+    a concern "Non, vraiment."
 
 # game/ep1.rpy:1691
 translate french ep1_3d0dd41a:
 
     # extend " We were just playing around."
-    extend ""
+    extend " On s'amusait juste."
 
 # game/ep1.rpy:1693
 translate french ep1_6902e3fc:
 
     # i "Bullshit!!"
-    i ""
+    i "Te fous pas de moi !!"
 
 # game/ep1.rpy:1694
 translate french ep1_6a7ebfac:
 
     # a sad "!..."
-    a sad ""
+    a sad "!..."
 
 # game/ep1.rpy:1695
 translate french ep1_7c7fdc21:
 
     # i "You know damn well what they’re doing!"
-    i ""
+    i "Tu sais très bien ce qu'ils font !"
 
 # game/ep1.rpy:1696
 translate french ep1_d9ec0f89:
 
     # extend " They’re not your friends!"
-    extend ""
+    extend " C'est pas tes amis !"
 
 # game/ep1.rpy:1697
 translate french ep1_ad24b601:
 
     # a concern "I-I never said they were."
-    a concern ""
+    a concern "J-J'ai jamais dit qu'ils l'étaient."
 
 # game/ep1.rpy:1698
 translate french ep1_8265374f:
 
     # i "Then why don’t you tell them to piss off?!"
-    i ""
+    i "Alors pourquoi tu leurs dit pas d'aller se faire voir ?!"
 
 # game/ep1.rpy:1699
 translate french ep1_a8aaaef0:
 
     # extend " For once in your life!"
-    extend ""
+    extend " Pour une fois dans ta vie !"
 
 # game/ep1.rpy:1700
 translate french ep1_42131bb2:
 
     # a concern "I..."
-    a concern ""
+    a concern "Je..."
 
 # game/ep1.rpy:1701
 translate french ep1_37fd29ae:
 
     # extend um " I can’t-"
-    extend um ""
+    extend um " Je peux pas-"
 
 # game/ep1.rpy:1702
 translate french ep1_36681d25:
 
     # i "You like being a victim that much?!"
-    i ""
+    i "T'aimes à ce point être une victime ?!"
 
 # game/ep1.rpy:1703
 translate french ep1_1a12b0fe:
 
     # a sadaway "..."
-    a sadaway ""
+    a sadaway "..."
 
 # game/ep1.rpy:1706
 translate french ep1_6f3d4875_23:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1707
 translate french ep1_a75cad36:
 
     # extend "You..."
-    extend ""
+    extend "Tu..."
 
 # game/ep1.rpy:1708
 translate french ep1_5d02080d:
 
     # extend "\nIt won’t get any better if you keep doing this."
-    extend ""
+    extend "\nÇa va pas s'améliorer si tu continues."
 
 # game/ep1.rpy:1709
 translate french ep1_eb0a2881:
 
     # extend " It'll only get worse."
-    extend ""
+    extend " Ça va seulement empirer."
 
 # game/ep1.rpy:1710
 translate french ep1_9be571f6_5:
 
     # a um "..."
-    a um ""
+    a um "..."
 
 # game/ep1.rpy:1711
 translate french ep1_fefb07f8:
 
     # extend "It's not that bad..."
-    extend ""
+    extend "C'est pas si grave..."
 
 # game/ep1.rpy:1712
 translate french ep1_7c838cf9:
 
     # extend " And I wouldn't..."
-    extend ""
+    extend " Et puis je..."
 
 # game/ep1.rpy:1714
 translate french ep1_6f3d4875_24:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1715
 translate french ep1_44e6b779:
 
     # a "I..."
-    a ""
+    a "Je..."
 
 # game/ep1.rpy:1716
 translate french ep1_f1669858:
 
     # extend " I can’t."
-    extend ""
+    extend " Je peux pas."
 
 # game/ep1.rpy:1717
 translate french ep1_a8f150ca:
 
     # extend " I can't just say something \nlike that to them."
-    extend ""
+    extend " Je peux pas juste leur dire quelque chose comme ça."
 
 # game/ep1.rpy:1718
 translate french ep1_888fa1a6:
 
     # extend " I'm sorry..."
-    extend ""
+    extend " Je suis désolée..."
 
 # game/ep1.rpy:1719
 translate french ep1_ed0f22d5:
 
     # i "Why the hell not?"
-    i ""
+    i "Et pourquoi pas ?"
 
 # game/ep1.rpy:1720
 translate french ep1_47e239a5:
 
     # a concern "Well..."
-    a concern ""
+    a concern "Et bien..."
 
 # game/ep1.rpy:1721
 translate french ep1_2d0ded94:
 
     # extend um " I..."
-    extend um ""
+    extend um "Je..."
 
 # game/ep1.rpy:1722
 translate french ep1_49b39098:
 
     # extend " It wouldn't be right, and..."
-    extend ""
+    extend " Ça serait pas bien, et..."
 
 # game/ep1.rpy:1726
 translate french ep1_4f77bce2:
 
     # i "For the love of..."
-    i ""
+    i "Mais putain..."
 
 # game/ep1.rpy:1727
 translate french ep1_493d7560:
 
     # a concern "I-it's not like I never tried it before...!"
-    a concern ""
+    a concern "C'est pas comme si j'avais pas essayé avant...!"
 
 # game/ep1.rpy:1728
 translate french ep1_b8dde81d:
 
     # extend sadaway " \nBut when I say something, they just make fun \nof me."
-    extend sadaway ""
+    extend sadaway " \nMais quand je parle, ils se moquent juste de moi."
 
 # game/ep1.rpy:1729
 translate french ep1_efab0e28:
 
     # extend " And nothing changes..."
-    extend ""
+    extend " Et rien ne change..."
 
 # game/ep1.rpy:1733
 translate french ep1_0eb5ea40:
 
     # i "So freakin' what?"
-    i ""
+    i "Et merde donc quoi ?"
 
 # game/ep1.rpy:1734
 translate french ep1_e50b2526:
 
     # extend " Who cares what they say, just don't bother with 'em."
-    extend ""
+    extend " Qu'est-ce qu'on en a foutre, tu t'en fous de ce qu'ils peuvent dire."
 
 # game/ep1.rpy:1735
 translate french ep1_1d99df37:
 
     # a ramble "I-{w=0.2}I’m not like you!"
-    a ramble ""
+    a ramble "J-{w=0.2}Je suis pas comme toi !"
 
 # game/ep1.rpy:1736
 translate french ep1_d502881c:
 
     # extend " I can't just do that!"
-    extend ""
+    extend " Je peux pas juste faire ça !"
 
 # game/ep1.rpy:1737
 translate french ep1_784dec86:
 
     # extend bitter " \nI can’t act like I don’t care when everybody’s \nlaughing."
-    extend bitter ""
+    extend bitter " \nJe peux pas faire comme si j'en avais rien à faire quand tout le monde se moque."
 
 # game/ep1.rpy:1738
 translate french ep1_4276bd1e:
 
     # extend " I can’t look people in the eye \nlike that..."
-    extend ""
+    extend " Je peux pas regarder les gens dans les yeux comme ça."
 
 # game/ep1.rpy:1741
 translate french ep1_6f3d4875_25:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1742
 translate french ep1_9de0ffed:
 
     # a "And when I go along with it, at least..."
-    a ""
+    a "Et puis quand je suis le mouvement, au moins..."
 
 # game/ep1.rpy:1743
 translate french ep1_9e2f8663:
 
     # extend sadaway "\nAt least they talk to me."
-    extend sadaway ""
+    extend sadaway "\nAu moins ils me parlent."
 
 # game/ep1.rpy:1744
 translate french ep1_e716a097:
 
     # extend " And..."
-    extend ""
+    extend " Et..."
 
 # game/ep1.rpy:1745
 translate french ep1_1b1d6b40:
 
     # a um "I know you’re okay on your own, but..."
-    a um ""
+    a um "Je sais que t'aimes bien être seule, mais..."
 
 # game/ep1.rpy:1746
 translate french ep1_d446a859:
 
     # extend "\nbut I..."
-    extend ""
+    extend "\nmais je..."
 
 # game/ep1.rpy:1747
 translate french ep1_6f3d4875_26:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1748
 translate french ep1_1a12b0fe_1:
 
     # a sadaway "..."
-    a sadaway ""
+    a sadaway "..."
 
 # game/ep1.rpy:1752
 translate french ep1_58833cbc:
 
     # i "So what’s your plan?"
-    i ""
+    i "Alors tu vas faire quoi ?"
 
 # game/ep1.rpy:1753
 translate french ep1_463d5a56:
 
     # a troubled "Huh?"
-    a troubled ""
+    a troubled "Hein ?"
 
 # game/ep1.rpy:1754
 translate french ep1_d5343919:
 
     # i "That’s it?"
-    i ""
+    i "C'est tout ?"
 
 # game/ep1.rpy:1755
 translate french ep1_2769a6ae:
 
     # extend " You’re gonna spend the next three years like that?"
-    extend ""
+    extend " Tu vas passer les trois prochaines années comme ça ?"
 
 # game/ep1.rpy:1756
 translate french ep1_9be571f6_6:
 
     # a um "..."
-    a um ""
+    a um "..."
 
 # game/ep1.rpy:1760
 translate french ep1_d0b76836:
 
     # i "...Seriously."
-    i ""
+    i "...Sérieusement."
 
 # game/ep1.rpy:1761
 translate french ep1_053b0c9a:
 
     # "She exhales sharply."
-    ""
+    "Elle expire bruyamment."
 
 # game/ep1.rpy:1762
 translate french ep1_c06d18b1:
 
     # extend " She doesn’t even look annoyed anymore."
-    extend ""
+    extend " Elle n'a même plus l'air ennuyée."
 
 # game/ep1.rpy:1763
 translate french ep1_de7e1ffe:
 
     # extend " I get that."
-    extend ""
+    extend " Je comprends."
 
 # game/ep1.rpy:1764
 translate french ep1_d259cee8:
 
     # extend " I’m also disappointed in myself."
-    extend ""
+    extend " Je me deçois moi-même."
 
 # game/ep1.rpy:1768
 translate french ep1_06884781:
 
     # i "Asya."
-    i ""
+    i "Asya."
 
 # game/ep1.rpy:1769
 translate french ep1_6f83c361:
 
     # a "Yes?"
-    a ""
+    a "Oui ?"
 
 # game/ep1.rpy:1770
 translate french ep1_8dee26ae:
 
     # i "You know I'm leaving soon."
-    i ""
+    i "Tu sais que je pars bientôt."
 
 # game/ep1.rpy:1771
 translate french ep1_1a12b0fe_2:
 
     # a sadaway "..."
-    a sadaway ""
+    a sadaway "..."
 
 # game/ep1.rpy:1773
 translate french ep1_76e85daf_1:
 
     # "That’s right."
-    ""
+    "C'est vra."
 
 # game/ep1.rpy:1774
 translate french ep1_5709adfb:
 
     # extend " I understand what she is getting at."
-    extend ""
+    extend " Je comprends où elle veut en venir."
 
 # game/ep1.rpy:1775
 translate french ep1_78dc9d08:
 
     # extend " The unspoken rule Garin and his friends have been sticking to – holding themselves back when Ira’s around..."
-    extend ""
+    extend " La règle tacite que Garin et ses amis suivent - se retenir quand Ira est dans les parages..."
 
 # game/ep1.rpy:1776
 translate french ep1_20e69989:
 
     # "The real, cowardly reason I’m so terrified of her going away."
-    ""
+    "La vraie raison, la raison lâche pour laquelle j'ai si peur qu'elle parte."
 
 # game/ep1.rpy:1777
 translate french ep1_44e6b779_1:
 
     # a "I..."
-    a ""
+    a "Je..."
 
 # game/ep1.rpy:1778
 translate french ep1_2b4316cd:
 
     # extend " I don’t know what to do."
-    extend ""
+    extend " Je ne sais pas quoi faire."
 
 # game/ep1.rpy:1779
 translate french ep1_6f3d4875_27:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1780
 translate french ep1_b519edf1:
 
     # "Why can’t I stop?"
-    ""
+    "Pourquoi je ne peux pas m'arrêter ?"
 
 # game/ep1.rpy:1781
 translate french ep1_02e222e9:
 
     # extend " The hand she’s been dealt is much worse than mine."
-    extend ""
+    extend " La main qui lui a été servie est bien pire que la mienne."
 
 # game/ep1.rpy:1782
 translate french ep1_c5f0f97f:
 
     # extend " But here I am, whining and clinging to her like a leech."
-    extend ""
+    extend " Pourtant je suis là, à me plaindre, m'accrochant comme une sangsue."
 
 # game/ep1.rpy:1783
 translate french ep1_b0d11f1e:
 
     # "I should be the one helping."
-    ""
+    "Je devrais être celle qui aide."
 
 # game/ep1.rpy:1784
 translate french ep1_350a3213:
 
     # extend " I should be the one telling Ira to get her act together."
-    extend ""
+    extend " Je devrais être celle qui dit à Ira de se ressaisir."
 
 # game/ep1.rpy:1785
 translate french ep1_1df6e5ca:
 
     # extend " And yet..."
-    extend ""
+    extend " Et pourtant..."
 
 # game/ep1.rpy:1786
 translate french ep1_64c3e969:
 
     # extend " I can’t think of a single thing to give her."
-    extend ""
+    extend " Je ne peux pas penser à une seule chose que je pourrais lui donner."
 
 # game/ep1.rpy:1792
 translate french ep1_8a8b928a:
 
     # i "Write me a poem."
-    i ""
+    i "Écris moi un poème."
 
 # game/ep1.rpy:1793
 translate french ep1_9be571f6_7:
 
     # a um "..."
-    a um ""
+    a um "..."
 
 # game/ep1.rpy:1794
 translate french ep1_52332ab6:
 
     # extend troubled "Huh?"
-    extend troubled ""
+    extend troubled "Hein ?"
 
 # game/ep1.rpy:1795
 translate french ep1_ba40e3a4:
 
     # i "A poem."
-    i ""
+    i "Un poème."
 
 # game/ep1.rpy:1796
 translate french ep1_d582bc76:
 
     # a concern "Um..."
-    a concern ""
+    a concern "Um..."
 
 # game/ep1.rpy:1797
 translate french ep1_832912f7:
 
     # extend troubled " Why?"
-    extend troubled ""
+    extend troubled " Pourquoi ?"
 
 # game/ep1.rpy:1801
 translate french ep1_6f3d4875_28:
 
     # i "..."
-    i ""
+    i "..."
 
 # game/ep1.rpy:1802
 translate french ep1_aa512fea:
 
     # extend "What kinda question is that?"
-    extend ""
+    extend "C'est quel genre de question ça ?"
 
 # game/ep1.rpy:1803
 translate french ep1_66b2ce8d:
 
     # extend " 'Cause I liked 'em."
-    extend ""
+    extend " Parce que je les aimes."
 
 # game/ep1.rpy:1804
 translate french ep1_17da6861:
 
     # a woah "Oh, uh...!"
-    a woah ""
+    a woah "Oh, uh...!"
 
 # game/ep1.rpy:1805
 translate french ep1_314c9d3d:
 
     # extend " R-really?"
-    extend ""
+    extend " V-Vraiment ?"
 
 # game/ep1.rpy:1806
 translate french ep1_b5e399f4:
 
     # extend surprised "\nYou liked them?"
-    extend surprised ""
+    extend surprised " \nT'as bien aimé ?"
 
 # game/ep1.rpy:1807
 translate french ep1_6096f756:
 
     # extend " You liked my poems?"
-    extend ""
+    extend " T'aimes bien mes poèmes ?"
 
 # game/ep1.rpy:1809
 translate french ep1_8b1bd405:
 
     # i "Why else would I ask?!"
-    i ""
+    i "Pourquoi je demanderais ?!"
 
 # game/ep1.rpy:1810
 translate french ep1_88a7dbb3:
 
     # a ehh "Ah, that's-"
-    a ehh ""
+    a ehh "Ah, c'est-"
 
 # game/ep1.rpy:1811
 translate french ep1_5fc831ee:
 
     # extend kya " T-thank you very much!!"
-    extend kya ""
+    extend kya " M-Merci beaucoup !!"
 
 # game/ep1.rpy:1812
 translate french ep1_16f9565d:
 
     # extend " \nI mean..."
-    extend ""
+    extend " \nJe veux dire..."
 
 # game/ep1.rpy:1813
 translate french ep1_fb1f77e2:
 
     # a kya "{cps=100}Y-yes, of course!"
-    a kya ""
+    a kya "{cps=100}O-oui, bien sûr !"
 
 # game/ep1.rpy:1814
 translate french ep1_b49e4f82:
 
     # extend " I'll write one, um...!"
-    extend ""
+    extend " J'en écrirais un, um...!"
 
 # game/ep1.rpy:1815
 translate french ep1_c4283c0a:
 
     # extend " \nDo you want it to be about something or...?"
-    extend ""
+    extend " \nTu veux que ce soit sur quelque chose en particulier ou...?"
 
 # game/ep1.rpy:1816
 translate french ep1_7463a13f:
 
     # extend "\nM-maybe in a specific metre?"
-    extend ""
+    extend "\nP-peut-être un certains nombre de vers ?"
 
 # game/ep1.rpy:1821
 translate french ep1_83483498:
 
     # i "I don’t care."
-    i ""
+    i "Je m'en fous."
 
 # game/ep1.rpy:1822
 translate french ep1_1607b4d5:
 
     # extend " Anything."
-    extend ""
+    extend " Ce que tu veux."
 
 # game/ep1.rpy:1823
 translate french ep1_4f598ed1:
 
     # a "A-{w=0.3}alright!"
-    a ""
+    a "D-{w=0.3}d'accord !"
 
 # game/ep1.rpy:1824
 translate french ep1_a089d915:
 
     # extend surprised " {cps=80}I’ll think of something then...!"
-    extend surprised ""
+    extend surprised " {cps=80}Je vais y réfléchir alors...!"
 
 # game/ep1.rpy:1825
 translate french ep1_f82c35b2:
 
     # extend kya "\nI’ll try!"
-    extend kya ""
+    extend kya "\nJe vais essayer !"
 
 # game/ep1.rpy:1828
 translate french ep1_a64564b0_1:
 
     # i "Yeah."
-    i ""
+    i "Ouais."
 
 # game/ep1.rpy:1829
 translate french ep1_22597245:
 
     # extend " You do that."
-    extend ""
+    extend " Fais ça."
 
 # game/ep1.rpy:1834
 translate french ep1_4ee2316d:
 
     # "Ira checks her wristwatch."
-    ""
+    "Ira regarde sa montre."
 
 # game/ep1.rpy:1835
 translate french ep1_f55f7f10:
 
     # i "I gotta go."
-    i ""
+    i "Je dois y aller."
 
 # game/ep1.rpy:1836
 translate french ep1_c40470a6_2:
 
     # extend " Uh..."
-    extend ""
+    extend " Uh..."
 
 # game/ep1.rpy:1837
 translate french ep1_14de73e4:
 
     # extend " \nSee you around, I guess."
-    extend ""
+    extend " \nÀ plus, je suppose."
 
 # game/ep1.rpy:1838
 translate french ep1_c3f0cde5:
 
     # "Already...?"
-    ""
+    "Déjà...?"
 
 # game/ep1.rpy:1839
 translate french ep1_7a8f0b95:
 
     # a troubled "Ah..."
-    a troubled ""
+    a troubled "Ah..."
 
 # game/ep1.rpy:1840
 translate french ep1_6d96d427:
 
     # extend " Y-yeah, alright."
-    extend ""
+    extend " O-ouais, d'accord."
 
 # game/ep1.rpy:1841
 translate french ep1_aac5aaa4:
 
     # extend smile "\nSee you around!"
-    extend smile ""
+    extend smile "\nÀ plus !"
 
 # game/ep1.rpy:1844
 translate french ep1_7a872347:
 
     # "She waves her hand and leaves."
-    ""
+    "Elle fait signe de la main et s'en va."
 
 # game/ep1.rpy:1845
 translate french ep1_87975d19:
 
     # extend " I watch her walking down the empty corridor."
-    extend ""
+    extend " Je la re garde s'en aller dans le couloir vide."
 
 # game/ep1.rpy:1846
 translate french ep1_51204ddf:
 
     # "Empty..."
-    ""
+    "Vide..."
 
 # game/ep1.rpy:1847
 translate french ep1_92e66f0e:
 
     # "I’ve really stayed in school for way too long."
-    ""
+    "Je suis vraiment restée aussi longtemps à l'école."
 
 # game/ep1.rpy:1848
 translate french ep1_5ef628d2:
 
     # extend " The shadows stretch along the hallway, tall and dark."
-    extend ""
+    extend " Les ombres s'étirent le long du couloir, grandes et sombres."
 
 # game/ep1.rpy:1849
 translate french ep1_95d79862:
 
     # extend " My heart is pounding."
-    extend ""
+    extend " Mon coeur bat la chamade."
 
 # game/ep1.rpy:1850
 translate french ep1_f54adc15:
 
     # "I should get going too."
-    ""
+    "Je devrais y aller moi aussi."
 
 # game/ep1.rpy:1870
 translate french ep1_255f39e6:
