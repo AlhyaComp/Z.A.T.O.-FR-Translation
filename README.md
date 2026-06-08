@@ -38,6 +38,6 @@ Après / After :
 - [x] Ecran titre / Title Screen
 - [x] Menus
 - [x] Prologue
-- [ ] Episode 1
+- [x] Episode 1
 - [ ] Episode 2
 - [ ] Episode 3
